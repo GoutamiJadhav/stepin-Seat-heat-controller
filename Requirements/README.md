@@ -22,7 +22,7 @@ Most of the European countries use this becuse of its low temperature climate.Th
 | HR01 | should check weathwe a person is seated or no | Techincal | IMPLEMENTED |
 | HR02 | Should check weather heater is on. | Techincal | IMPLEMENTED | 
 | HR03 | should display temperature values using oscillocope| Techincal | IMPLEMENTED |
-| HR04 | should display using lcd | IMPLEMENTED |
+| HR04 | should display using lcd | Techincal | IMPLEMENTED |
 
 
 
